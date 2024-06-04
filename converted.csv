@@ -1,0 +1,14 @@
+Step, Description
+1, Initialize quantum registers and classical registers
+2, Initialize cluster centroids randomly or using a deterministic method
+3, Encode classical data points into quantum states
+4, Set maximum number of iterations and convergence threshold
+5, Repeat until convergence or maximum iterations reached
+6, Assign each data point to the nearest cluster centroid
+7, Update cluster centroids
+8, Check for convergence
+9, Extract final cluster centroids from quantum registers
+10, Decode quantum cluster centroids to obtain classical representations
+11, Evaluate clustering quality using metrics such as within-cluster sum of squares
+12, Output the final cluster centroids and evaluation results
+
